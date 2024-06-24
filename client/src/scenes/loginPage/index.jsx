@@ -12,7 +12,7 @@ function LoginPage() {
                     fontSize="32px"
                     color="primary"
                 >
-                    Sociopedia
+                    linkLounge
                 </Typography>
             </Box>
             <Box
