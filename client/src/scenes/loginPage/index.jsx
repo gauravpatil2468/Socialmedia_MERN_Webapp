@@ -35,7 +35,7 @@ function LoginPage() {
                 backgroundColor={theme.palette.background.alt}
             >
                 <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-                    Welcome to Socipedia, the Social Media for Sociopaths!
+                Welcome to linkLounge, your chill spot to connect, share, and vibe with your favorite people!
                 </Typography>
                 <Form />
             </Box>
